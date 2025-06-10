@@ -19,7 +19,7 @@ Sou estudante de Ciência da Computação no IFCE Campus Aracati-CE, venho estud
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Next" height="30" width="40" src="http://www.legrandlucas.com/assets/nextjs__white.png" />
+  <img align="center" alt="Next" height="30" width="40" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" />
   <img align="center" alt="Vtex IO" height="30" width="40" src="https://avatars3.githubusercontent.com/u/56606363?v=4" />
    <i class="devicon-nextjs-original-wordmark"></i>
 </div>
